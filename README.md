@@ -137,4 +137,4 @@ This method returns a list of orders that are then used to create the jtabel in 
 
 Java swing tutorial: [https://www.javatpoint.com/java-swing]  
 Reflection technique: [https://www.oracle.com/technical-resources/articles/java/javareflection.html]  
-Java and SQL connection: https://www3.ntu.edu.sg/home/ehchua/programming/java/jdbc_basic.html
+Java and SQL connection: [https://www3.ntu.edu.sg/home/ehchua/programming/java/jdbc_basic.html]
